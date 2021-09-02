@@ -1,8 +1,12 @@
-this a header and it is header 1<br>
-second this is a ## second header header 2<br>
-this is a test
-i should go watch a markdown tutorial xd
-idk markdown language 
-# main
-yes 
-## bruh
+
+###### this a header and it is header 1
+
+## bruh! (factorial(<https://wikimedia.org/api/rest_v1/media/math/render/svg/b8f2db21649560c140f219b6ff57e2ff1b7b8b40>))
+
+### (bruh²)²
+
+#### bruh²
+
+##### bruh * 2
+
+###### bruh
