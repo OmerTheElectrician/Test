@@ -1,3 +1,4 @@
+#super simple temperature converter
 question = str(input("Do you want to convert Celsius to Fahrenheit or Fahrenheit to Celsius? : "))
 if question == "Celsius to Fahrenheit":
     Celsius = input("Enter a temperature in Celsius: ")
